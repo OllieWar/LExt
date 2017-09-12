@@ -28,14 +28,20 @@
 
 	<body>
 
+		<!--Navigation-->
 		<nav class="navbar navbar-default" role="navigation">
       		<ul class="nav navbar-nav">
-      			<li><a href="#">Home</a></li>
-      			<li><a href="#">Home</a></li>
-      			<li><a href="#">Home</a></li>
-      			<li><a href="#">Home</a></li>
+      			<li class="active"><a href="#">Home</a></li>
+      			<li><a href="#">About</a></li>
+      			<li><a href="#">FAQ</a></li>
+      			<li><a href="#">Contact</a></li>
       		</ul>
     	</nav>
+    	<!--End Navigation-->
+
+    	<div class="container">
+    		<h1>Content Area</h1>
+    	</div>
 
     	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
