@@ -13,6 +13,10 @@
 		<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
 		<!--jQuery css-->
 
+		<!--FontAwesome-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!--FontAwesome-->
+
 		<title>LogicExtra</title>
 
 	</head>
