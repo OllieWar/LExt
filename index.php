@@ -17,13 +17,20 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<!--FontAwesome-->
 
-		<title>LogicExtraT</title>
+		<title>LogicExtra</title>
 
 	</head>
 
 	<body>
 
-		<h1>Test</h1>
+		<nav class="navbar navbar-default" role="navigation">
+			<ul class="nav navbar-nav">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">FAQ</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
 
 
 		<!--jQuery-->
