@@ -24,32 +24,60 @@
 
 		<title>LogicExtra</title>
 
+		<style type="text/css">
+
+			html,
+			body {
+				height: 100%;
+			}
+
+			#wrap {
+				min-height: 100%;
+				height: auto;
+				margin: 0 auto -60px;
+				padding: 0 0 60px;
+			}
+
+			#footer {
+				height: 60px;
+				background-color: #f5f5f5;
+			}
+
+		</style>
+
 	</head>
 
 	<body>
 
-		<!--Navigation-->
-		<nav class="navbar navbar-default" role="navigation">
-			<div class="container">
-	      		<ul class="nav navbar-nav">
-	      			<li class="active"><a href="#">Home</a></li>
-	      			<li><a href="#">About</a></li>
-	      			<li><a href="#">FAQ</a></li>
-	      			<li><a href="#">Contact</a></li>
-	      		</ul>
-      		</div>
-    	</nav>
-    	<!--End Navigation-->
+		<div id="wrap">
 
-    	<div class="container">
-    		<h1>Content Area</h1>
-    	</div>
+			<!--Navigation-->
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="container">
+		      		<ul class="nav navbar-nav">
+		      			<li class="active"><a href="#">Home</a></li>
+		      			<li><a href="#">About</a></li>
+		      			<li><a href="#">FAQ</a></li>
+		      			<li><a href="#">Contact</a></li>
+		      		</ul>
+	      		</div>
+	    	</nav>
+	    	<!--End Navigation-->
 
-    	<footer id="footer">
 	    	<div class="container">
-	    		<p>Footer</p>
+	    		<h1>Content Area</h1>
 	    	</div>
-    	</footer>
+
+	    </div>
+
+	    	<!--Footer-->
+	    	<footer id="footer">
+		    	<div class="container">
+		    		<p>Footer</p>
+		    	</div>
+	    	</footer>
+	    	<!--Footer-->
+
 
     	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
