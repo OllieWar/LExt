@@ -23,9 +23,9 @@
 
 	<body>
 
-		<nav class="navbar navbar-default" role="navigation">
-			<ul class="nav navbar-nav">
-				<li><a href="#">Home</a></li>
+		<nav class="avbar navbar-expand-lg navbar-light bg-light">
+			<ul class="navbar-nav">
+				<li class="nav-item active"><a href="#">Home</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">FAQ</a></li>
 				<li><a href="#">Contact</a></li>
