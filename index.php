@@ -23,12 +23,17 @@
 
 	<body>
 
-		<nav class="avbar navbar-expand-lg navbar-light bg-light">
-			<ul class="navbar-nav">
-				<li class="nav-item active"><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">FAQ</a></li>
-				<li><a href="#">Contact</a></li>
+		<nav class="navbar navbar-dark bg-dark">
+  			<ul class="navbar-nav">
+     			<li class="nav-item active">
+       				<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      			</li>
+			    <li class="nav-item">
+			    	<a class="nav-link" href="#">Features</a>
+			    </li>
+			    <li class="nav-item">
+			    	<a class="nav-link" href="#">Pricing</a>
+			    </li>
 			</ul>
 		</nav>
 
